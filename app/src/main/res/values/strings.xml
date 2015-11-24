@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicativo da Dengue</string>
+    <string name="questao_1">1) Os pratinhos dos vasos das plantas possui água parada? Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="questao_2">2) Teste teste teste? Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_1">Dica: Para que a água não se acumule nos vasos das plantas encha os
+        pratinhos com areia até a borda.</string>
+    <string name="radio_button_sim">Sim</string>
+    <string name="radio_button_nao">Não</string>
+</resources>
