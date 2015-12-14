@@ -1,9 +1,46 @@
 <resources>
     <string name="app_name">Aplicativo da Dengue</string>
-    <string name="questao_1">1) Os pratinhos dos vasos das plantas possui água parada? Conforme a imagem abaixo, verifique a situação do local.</string>
-    <string name="questao_2">2) Teste teste teste? Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="questao_1">1) Os pratinhos dos vasos das plantas possuí água parada?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="questao_2">2) Possuí algum objeto que possa acumular água? Qualquer objeto
+        como embalagens usadas, latas, copos e garrafas vazias, etc. Conforme a imagem abaixo, verifique a situação do local.</string>
     <string name="dica_1">Dica: Para que a água não se acumule nos vasos das plantas encha os
         pratinhos com areia até a borda.</string>
+    <string name="dica_2">Dica: Para que a água não pare nesse recipientes jogue todos esses objetos no lixo.</string>
+    <string name="questao_3">3) Possuí algum tanque com água e também utensílios como jarras, garrafas, potes e baldes?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_3">Dica: Lave semanalmente estes recipientes com sabão e esfregue com a escova. E mantenha tampados corretamente.</string>
+    <string name="questao_4">4) Possuí algum tonel ou caixa de água destampada?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_4">Dica: Mantenha os tonéis e caixas de água bem tampados. De preferência com a tampa original.</string>
+    <string name="questao_5">5) Possuí alguma calha com excesso de folhas e galhos que estão obstruindo o caminho da água?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_5">Dica: Remova folhas, galhos e tudo que possa impedir a água de correr pelas calhas.</string>
+    <string name="questao_6">6) Possuí algum piso, laje que esteja com água acumulada?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_6">Dica: Não deixe a água acumulada da chuva sobre laje ou pisos.</string>
+    <string name="questao_7">7) Possuí algum pneu velho que esteja jogado em um lugar descoberto e com água dentro?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_7">Dica: Entregue seus pneus velhos ao serviço de limpeza urbana ou guarde-os sem água em local coberto e abrigada da chuva.</string>
+    <string name="questao_8">8) Possuí alguma garrafa com água dentro?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_8">Dica: Guarde as garrafas sempre com o bico para baixo.</string>
+    <string name="questao_9">9) Os lixos estão dentro de sacos de lixos bem fechados? estão fora de alcance de animais?
+        Conforme a imagem abaixo, verifique a situação do local.</string>
+    <string name="dica_9">Dica: Coloque os lixos em sacos bem fechados. Mantenha fora de alcance de animais e não jogue lixo em terrenos baldios.</string>
+    <string name="questao_10">10) Possuí algum mosquito com cor café ou preta e com listas brancas no corpo?
+    Conforme a imagem abaixo, verifique se existe algum mosquito com está aparência.</string>
+    <string name="dica_10">Siga todos os passos de verificações para eliminiar os locais que servem de criadouros do mosquito.
+        E informe ao ogrão responsável pelas epidemias da sua cidade.</string>
+    <string name="questao_11">11) Possuí algum mosquito com as asas translúcidas e as pernas e corpo com manchas brancas?
+    Conforme a imagem abaixo, verifique se existe algum mosquito com está aparência.</string>
+    <string name="dica_11">Siga todos os passos de verificações para eliminiar os locais que servem de criadouros do mosquito.
+        E informe ao ogrão responsável pelas epidemias da sua cidade.</string>
+    <string name="questao_12">12) Possuí algum mosquito com 3 pares de patas com manchas brancas?
+    Conforme a imagem abaixo, verifique se existe algum mosquito com está aparência.</string>
+    <string name="dica_12">Siga todos os passos de verificações para eliminiar os locais que servem de criadouros do mosquito.
+        E informe ao ogrão responsável pelas epidemias da sua cidade.</string>
     <string name="radio_button_sim">Sim</string>
     <string name="radio_button_nao">Não</string>
+    <string name="title_activity_send_location">SendLocation</string>
 </resources>
